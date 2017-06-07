@@ -26,3 +26,5 @@ def is_valid_IP(strng):
                 break
                 
     return check
+
+print(is_valid_IP('192.168.1.1'))
